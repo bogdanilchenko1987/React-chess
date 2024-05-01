@@ -33,11 +33,11 @@
 }
 
 .black {
-  background-color: deepskyblue;
+  background-color: rgb(34, 38, 39);
 }
 
 .white {
-  background-color: rgb(245, 212, 152);
+  background-color: rgb(173, 165, 149);
 }
 
 .selected {
